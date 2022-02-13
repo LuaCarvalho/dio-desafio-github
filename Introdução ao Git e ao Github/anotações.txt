@@ -1,0 +1,8 @@
+Link para download do GIT - https://git-scm.com/downloads
+
+Git - Gerenciamento de versão de códigos
+	Linus Torvalds 	
+	Git é um CLI - Command Line Interface
+
+GitHub - Repositório on line para armazenamento de códigos
+ 
