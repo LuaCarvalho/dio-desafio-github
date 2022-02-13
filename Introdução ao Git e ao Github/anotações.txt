@@ -5,4 +5,40 @@ Git - Gerenciamento de versão de códigos
 	Git é um CLI - Command Line Interface
 
 GitHub - Repositório on line para armazenamento de códigos
+
+
  
+##Desafio
+
+Criado um novo repositório no GitHub
+
+
+
+Repositório clonado para o ambiente desktop/local
+
+>git clone "codigoSSH"
+
+
+
+Identifica alterações no repositório local
+
+>git status
+
+
+
+Adiciona controle de versão local, arquivos criados/alterados
+
+>git add .
+
+
+
+Criar um commit
+
+>git commit -m "Inclusão das anotações ..."
+
+
+
+Enviar commit para repositório em nuvem github
+
+>git push origin main
+
